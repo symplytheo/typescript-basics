@@ -2,4 +2,4 @@
 
 ## typescript-basics
 
-**Demo Link:** *[Demo](https://symplytheo.github.io/typescript-basics/public/index.html)*
+**Demo Link:** *[https://symplytheo.github.io/typescript-basics/public/index.html](https://symplytheo.github.io/typescript-basics/public/index.html)*
